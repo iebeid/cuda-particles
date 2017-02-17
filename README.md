@@ -1,2 +1,5 @@
-# cuda-particles
-A simple visualization of particles calcualted using CUDA
+# Cuda particles visualization
+
+An OpenGL visualization of particles calcualted using CUDA
+
+
